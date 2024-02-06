@@ -1,0 +1,1 @@
+my expectations for this course are to learn how to design front end, do back end, make them communicate, and be proficient with version control
